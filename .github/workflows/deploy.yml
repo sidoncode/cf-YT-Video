@@ -16,8 +16,8 @@ jobs:
       - name: Set up AWS CLI
         uses: aws-actions/configure-aws-credentials@v1
         with:
-          aws-access-key-id: AKIA3XTWD26E5MYSA52X
-          aws-secret-access-key: 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
+          aws-access-key-id: 
+          aws-secret-access-key: 
           aws-region: us-east-1
 
       - name: Deploy CloudFormation Stack

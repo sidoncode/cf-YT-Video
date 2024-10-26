@@ -5,7 +5,7 @@ Resources:
   MyS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: my-s4-sid-github
+      BucketName: my-s3-bucket-sid-D3ytvideo
 
 Outputs:
   S3BucketName:
